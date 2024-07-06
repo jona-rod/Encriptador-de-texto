@@ -104,10 +104,11 @@ button:hover{
 h3{
     font-size: 30px;
     color: yellow;
-    text-shadow: 0px 0px 10px rgb(255, 255, 255);
+    text-shadow: 0px 0px 10px rgb(31, 34, 36);
 }
 .txt__plantilla{
-    font-weight:lighter;
+    font-weight:normal;
+    text-shadow: 0px 0px 8px  rgb(1, 29, 32);
     font-size: 20px;
     padding: 20px 20px;
     word-break: break-word;
